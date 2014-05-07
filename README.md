@@ -9,6 +9,8 @@ checkpoints (QRcode posters).
 from each posters were different, which made the game a little more interactive 
 and varied.
 
+### Caution
+The server is no longer exist, me and my friend decided to terminate the server due to the end of AWS free tier.
 
 ### ScreenShots
 ![Screeenshot](https://raw.github.com/calvinchankf/HunterShaw/master/img/1.png)
